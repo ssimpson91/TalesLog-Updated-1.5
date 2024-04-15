@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <MainButtonDef>
+    <defName>TaleLogTab</defName>
+    <label>Tale Log</label>
+    <description>Things that happened to the colony are registered here.</description>
+    <tabWindowClass>Nandonalt_TaleLog.TalesTab</tabWindowClass>
+    <order>75</order>
+  </MainButtonDef>
+
+</Defs>

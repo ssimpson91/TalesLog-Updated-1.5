@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Nandonalt-TaleLog\Assemblies\Nandonalt_TaleLog.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Nandonalt-TaleLog\Source\Nandonalt_TaleLog\Nandonalt_TaleLog\obj\Debug\Nandonalt_TaleLog.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Nandonalt-TaleLog\Source\Nandonalt_TaleLog\Nandonalt_TaleLog\obj\Debug\Nandonalt_TaleLog.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Spuddy-TaleLog-A18\Assemblies\Nandonalt_TaleLog.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Spuddy-TaleLog-A18\Source\Nandonalt_TaleLog\Nandonalt_TaleLog\obj\Debug\Nandonalt_TaleLog.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Spuddy-TaleLog-A18\Source\Nandonalt_TaleLog\Nandonalt_TaleLog\obj\Debug\Nandonalt_TaleLog.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\talelogretold\Assemblies\Nandonalt_TaleLog.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\talelogretold\Source\Nandonalt_TaleLog\Nandonalt_TaleLog\obj\Debug\Nandonalt_TaleLog.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\talelogretold\Source\Nandonalt_TaleLog\Nandonalt_TaleLog\obj\Debug\Nandonalt_TaleLog.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\talelogretold\Source\Nandonalt_TaleLog\Nandonalt_TaleLog\obj\Debug\Nandonalt_TaleLog.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\talelogretold\Source\Nandonalt_TaleLog\Nandonalt_TaleLog\obj\Debug\Nandonalt_TaleLog.dll

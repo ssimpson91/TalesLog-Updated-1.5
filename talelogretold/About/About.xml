@@ -1,0 +1,12 @@
+﻿<ModMetaData>
+    <name>Tale Log [Retold] [A18]</name>
+    <author>Nandonalt, Spudd, Omegay</author>
+    <packageId>TaleLog</packageId>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <description>v1.5.0 Tale Log [Retold]
+        - Update of Nandonalt's mod for A18
+        - Adds a new tab to the game window that shows all tales registered on the current save.</description>
+    <url>https://steamcommunity.com/id/cssen/myworkshopfiles/?appid=294100</url>
+</ModMetaData>
