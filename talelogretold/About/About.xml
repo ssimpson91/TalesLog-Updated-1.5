@@ -1,7 +1,7 @@
-﻿<ModMetaData>
+<ModMetaData>
     <name>Tale Log [Retold] [A18]</name>
-    <author>Nandonalt, Spudd, Omegay</author>
-    <packageId>TaleLog</packageId>
+    <author>Nandonalt, Spudd, Omega</author>
+    <packageId>omega.TaleLog</packageId>
     <supportedVersions>
         <li>1.5</li>
     </supportedVersions>
